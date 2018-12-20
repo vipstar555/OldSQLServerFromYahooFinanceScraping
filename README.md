@@ -1,0 +1,2 @@
+# OldSQLServerFromYahooFinanceScraping
+過去作。ヤフーファイナンスからSQLServerへEntityFrameworkを使ってデータを入れるプログラムです。
